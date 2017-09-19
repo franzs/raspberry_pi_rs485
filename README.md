@@ -8,6 +8,8 @@ from the excellent german c't magazin:
 In addition to the schematic published a level shifter was added
 for the RXD input.
 
+This shield was build around the [MAX485 module](http://www.chinalctech.com/index.php?_m=mod_product&_a=view&p_id=811) from LC Electronics.
+
 There is an
 [AISLER project](https://aisler.net/franz/raspberry-pi-rs485-module/main-pcb)
 if you like to order a PCB.
